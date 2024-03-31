@@ -7,3 +7,4 @@
 ![image](https://github.com/chlwlgus97/Investing_Web_Crawling/assets/130372088/b79520b8-004c-481c-a84a-18c9677c17ed)
 
 ### 저장된 뉴스 csv파일
+![image](https://github.com/chlwlgus97/Investing_Web_Crawling/assets/130372088/bedbaa47-23d6-4901-ab51-cbe00ccd7b71)
